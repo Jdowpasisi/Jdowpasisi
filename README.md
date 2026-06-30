@@ -62,7 +62,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jdowpasisi&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdowpasisi&layout=compact&theme=default" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
